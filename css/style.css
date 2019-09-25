@@ -1,0 +1,16 @@
+h1 {
+	color: white;
+}
+
+.fixed-bottom {
+	color: white;
+}
+
+.btn {
+	border: 1px solid #fff;
+	color: white;
+}
+
+.playing {
+	border: 2px solid #000;
+}
